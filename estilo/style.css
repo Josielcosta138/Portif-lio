@@ -53,6 +53,11 @@ header .logo{
 	font-size: 25px;
 	font-weight: 300;
 	text-transform: uppercase;
+	
+}
+
+.logo a{
+	text-decoration: none;
 	color: white;
 }
  
@@ -74,9 +79,16 @@ nav.desktop li{
 	display: inline-block;
 }
 
+
 nav.desktop a{
+	transition: 1s;
 	color: white;
 	text-decoration: none;
+}
+
+nav.desktop a:hover{
+	text-decoration: underline;
+	color:  rgb(240, 25, 222);
 }
 
 

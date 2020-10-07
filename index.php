@@ -14,6 +14,7 @@
 	<meta name="description" content="Descrição do meu website">
 	<meta name="author" content="Josiel Costa">
 	<meta charset="utf-8">
+	
 		
 </head>
 <body>
@@ -26,7 +27,7 @@
 
 	<header><!--TOP SITE-->
 		<div class="center">
-		<div class="logo left">Welcome Portifólio</div><!--LOGOMARCA-->
+		<div class="logo left"><a href="/"> Welcome Portifólio </a></div><!--LOGOMARCA-->
 		<nav class="desktop right">
 		<ul>
 				<li><a href="">Home</a></li>
@@ -37,7 +38,7 @@
 		</nav>
 		<nav class="mobile right">
 			<div class="botao-menu-mobile">
-			<i class="fa fa-bars" aria-hidden="true">Botão</i>
+			<i class="" aria-hidden="true">Menu</i>
 			</div>
 			<ul>
 				<li><a href="">Home</a></li>
@@ -173,6 +174,18 @@
 
 	</footer> <!--rodapé-->
 
+<!--JScript-->
+	<script src="js/jquery.js" ></script>
+	<script src="js/scripts.js" ></script>
+
+		<!--<script>
+			$(function(){
+
+				var mensagem = "Test JScript"
+				console.log(mensagem);
+				alert(mensagem);
+			})
+		</script>-->
 
 </body>
 </html>

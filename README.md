@@ -1,3 +1,4 @@
+
 ## 📝 Projeto Portifólio.
 ### minha própria pagina exibindo meu portifólio.
 
@@ -84,3 +85,7 @@ $  start
 ---
 #
 ### 🚀 Desenvolvido por Josiel Costa Martins.
+=======
+# Portif-lio
+Site com estilização Responsiva. 
+>>>>>>> 26c244d533884708de854b63fdc2b9cee02cde99
